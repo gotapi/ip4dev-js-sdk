@@ -1,6 +1,6 @@
 {
   "name": "ip4dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fetch geo/asn information of IP from https://ip4.dev/",
   "main": "lib/index.js",
   "scripts": {
