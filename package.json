@@ -1,0 +1,25 @@
+{
+  "name": "ip4dev",
+  "version": "1.0.0",
+  "description": "fetch geo/asn information of IP from https://ip4.dev/",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gotapi/ip4dev-npmjs"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "location",
+    "ip4dev"
+  ],
+  "author": "gotapi.npmjsorg@gotpai.net",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "typescript": "^4.5.4"
+  }
+}
